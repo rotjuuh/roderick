@@ -1,0 +1,216 @@
+html{
+	background:black;
+}
+
+header {
+	background-color: #f4f4f4;
+	height: 100px;
+    width: 100%;
+}
+
+#travel h1{
+	text-align: left;
+	font-color:black;
+	font-size:15px;
+	font-style:oblique;
+	margin:auto;
+}
+
+nav {
+	background-color:white;
+	height: 60px;
+	width: 100%;
+	float: right;
+	margin:auto;
+	
+}
+
+nav ul{
+	margin: 0;
+	padding:0;
+
+}
+
+nav li{
+	display: inline;
+	padding:0 10px 0 10px;
+	top: 40px;
+	position: relative;
+}
+
+nav li a{ 
+	color:black;
+	text-transform:uppercase;
+	font-size: 16px;
+ }
+
+article{
+	background-color: #ffffff;
+	height: 414px;
+}
+
+#advertisment  {
+	background-color: grey;
+	float: left;
+	width: 48%;
+	height:200px;
+	
+}
+
+#advertisment2 {
+	background:#ffffff;
+	float:left;
+	width:51%;
+	height: 356px;
+	
+}
+
+#advertisment2 h2{
+	text-align: center;
+	font-color: black
+	text-transform:uppercase;
+
+}
+
+#advertisment2 p{
+	text-align: center;
+	font-color: black;
+	text-transform:uppercase;
+}
+
+section {
+	background-color: #f4f4f4;
+	height: 30px;
+    border-top: 5px solid;
+	border-bottom:3px solid;
+	
+
+}
+
+#searchbar {
+	background: white;
+	border: solid 3px;
+	width: 70%;
+	margin-top: 40px;
+	margin-left: 180px;
+}
+
+#searchbar h3{
+	display: inline-block;
+    background: #f4f4f4;
+	width: 25%;
+	font-size: 15px;
+	font-color:black;
+	text-align:left;
+	
+	margin-top: 23px;
+
+	margin-bottom: 24px;
+	margin-left: 30px;
+	padding:10px;
+
+} 
+ 
+#searchbar p{
+	position: absolute;
+	background:grey !important;
+	width: 18%; 
+	height: 30px;
+	text-transform: uppercase;
+/*	padding-left:40px;
+	padding-top:10px;*/
+	margin-top: 27px;
+	margin-right: 160px;
+	border: solid 1px;
+	display: inline-block;	
+	
+}
+
+section {
+     height: 150px;
+
+}
+
+
+
+#navbar2 {
+	background: grey;
+	position: absolute;
+	width: 70%;
+	border:solid 3px;
+	margin-top: 30px;
+	margin-left:180px;
+	height: 70px;
+	float: left;
+
+}
+
+#navbar2 li {
+	display: inline;
+	padding: 0px 20px 0px 20px 0px;
+	top: 18px;
+	position: relative;
+	margin-left: 10px;
+
+	
+}
+#navbar2 li a{
+	color: black;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-style: impact;
+	position:relative;
+	padding: 0px 10px;
+
+}
+.margot {
+	position: relative;
+	height: 600px;
+	background: #f4f4f4;
+	margin-top: 0px;
+	border: solid 3px;
+
+}
+
+#roderick {
+
+    position: relative;
+	width: 70%;
+	margin-top: 20px;
+	margin-left: 10px;
+    height:  300px;
+    background: white;
+
+}
+#roderick ul{
+	list-style: none;
+	width: 30%;
+	float:right;
+	position: relative;
+	margin-right: 70px;
+
+}
+
+#roderick li{
+	float: none;
+	padding: 10px;
+
+}
+
+#roderick li a{
+    text-decoration: none;
+	float:right;
+    color: black;
+	text-transform: uppercase;
+
+
+
+}
+
+
+    
+
+
+
+
+
